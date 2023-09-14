@@ -1,0 +1,14 @@
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\bin\Debug\net7.0\BirdPersonMaze.exe
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\bin\Debug\net7.0\BirdPersonMaze.deps.json
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\bin\Debug\net7.0\BirdPersonMaze.runtimeconfig.json
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\bin\Debug\net7.0\BirdPersonMaze.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\bin\Debug\net7.0\BirdPersonMaze.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.AssemblyInfoInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.AssemblyInfo.cs
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.csproj.CoreCompileInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\refint\BirdPersonMaze.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\BirdPersonMaze.genruntimeconfig.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\BirdPerson\BirdPersonMaze\obj\Debug\net7.0\ref\BirdPersonMaze.dll

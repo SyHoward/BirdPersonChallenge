@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BirdPersonMaze/1.0.0": {
+        "runtime": {
+          "BirdPersonMaze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BirdPersonMaze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
